@@ -130,7 +130,7 @@ in programming languages theory and implementation.
 
 * **Linear Haskell: Practical Linearity in a Higher-Order Polymorphic Language** (POPL 2019) \
   Jean-Philippe Bernardy, Mathieu Boespflug, Ryan R. Newton, Simon Peyton Jones, and Arnaud Spiwack \
-  [[https://doi.org/10.1145/3158093]]
+  [[DOI](https://doi.org/10.1145/3158093)]
   [[PDF (extended version)](https://www.microsoft.com/en-us/research/wp-content/uploads/2017/03/hlt.pdf)]
   [[GHC wiki](https://gitlab.haskell.org/ghc/ghc/-/wikis/linear-types)]
 
@@ -149,7 +149,7 @@ in programming languages theory and implementation.
 ### 2014
 
 * **Bounded Linear Types in a Resource Semiring** (ESOP 2014) \
-  Dan R. Ghica and Alex I. Smith
+  Dan R. Ghica and Alex I. Smith \
   [[DOI](https://doi.org/10.1007/978-3-642-54833-8_18)]
   [[PDF](https://research.birmingham.ac.uk/files/23697858/esop14.pdf)]
 
